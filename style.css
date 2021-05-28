@@ -1,0 +1,14 @@
+#snakeboard {
+    position: absolute;
+    top: 56%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    zoom: 190%;
+  }
+  #score {
+    text-align: center;
+    font-size: 140px;
+  }
+  #highscore {
+    font-size: 100px;
+  }
